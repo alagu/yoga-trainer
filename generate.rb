@@ -1,15 +1,17 @@
 require 'pp'
 poses = [
-  { name: "सूर्यनमस्कार", steps: 12, reps: 6, interval: '1200' },
-  { name: "त्रिकोणासन", steps: 30, reps: 2, interval: '500'},
-  { name: "अर्ध मत्स्येन्द्रासन", steps: 30, reps: 2 , interval: '500'},
-  { name: "Leg Raise", steps: 50, reps: 2 , interval: '500'},
-  { name: "पश्चिमोत्तासन", steps: 60, reps: 1 , interval: '500'},
-  { name: "Plank Pose", steps: 60, reps: 1 , interval: '500'},
-  { name: "धनुरासन", steps: 30, reps: 1, interval: '500'},
-  { name: "Chair Pose",steps: 60,reps: 1, wait: 10, interval: '500'},
-  { name: "सर्वांगासन",steps: 60,reps: 1,wait: 10, interval: '500'},
-  { name: "सिरसासन",steps: 60,reps: 1,wait: 10, interval: '500'}
+  { name: "सूर्यनमस्कार", steps: 12, reps: 6, interval: '3000', sub_poses: ['ताड़ासना','हस्त उत्तनासना','पादासना','अश्व संचालासना','दण्डासना','अष्टांग नमस्कारा','भुजंगासना','अधो मुखा  स्वनासना','अश्व संचालासना','पादासना','हस्त उत्तनासना','ताड़ासना'] },
+  { name: "वीरभद्रासना 1", steps: 15, reps: 2, interval: '3000'},
+  { name: "वीरभद्रासना 2", steps: 15, reps: 2, interval: '3000'},
+  { name: "वीरभद्रासना 3", steps: 15, reps: 2, interval: '3000'},
+  { name: "नटराजसना", steps: 15, reps: 2 , interval: '3000'},
+  { name: "उत्कटासना", steps: 15, reps: 1, wait: 20, interval: '1000'},
+  { name: "कालिआसना", steps: 15, reps: 1, interval: '1000'},
+  { name: "दंडासना", steps: 15, reps: 1, wait: 20, interval: '1000',},
+  { name: "पश्चिमोत्तासना", steps: 15, reps: 1 , interval: '1000'},
+  { name: "धनुरासना", steps: 10, reps: 1, interval: '1000'},
+  { name: "सर्वांगसना", steps: 60,reps: 1, wait: 10, interval: '500'},
+  { name: "सीरसासना", steps: 60,reps: 1, wait: 10, interval: '500'}
 ]
 
 # poses = [
@@ -59,9 +61,17 @@ poses.each_with_index do |pose,index|
     (1..pose[:steps]).each do |counter|
       break_time = pose[:interval]
       say_time = pose[:steps] - counter + 1
-      puts "#{say_time} <break time='#{break_time}ms'/>"      
+      breath = (counter % 2 == 1 ) ? " Breathe out " : " Breathe in "
+      sub_pose = ""
+      
+      if pose.has_key?(:sub_poses) && (!pose[:sub_poses][counter - 1].nil?)
+        sub_pose = "<break time='100ms' /> #{pose[:sub_poses][counter - 1]}"
+      end
+      puts "#{breath} #{sub_pose}<break time='#{break_time}ms'/>"      
     end
+    # break
   end
+  # break
 end
 
-puts "<break time='500ms'/>Your Yoga Session is Complete.</speak>"
+puts "<break time='500ms'/>Take a short break for pranayama</speak>"
