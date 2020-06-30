@@ -1,405 +1,403 @@
 <speak>
 <break time='1s' />Get ready for सूर्यनमस्कार <break time='5s' />
- Breathe out  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> दण्डासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
- Breathe out  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> दण्डासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
+ Exhale  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
 Starting round 2 of सूर्यनमस्कार <break time='2s' />
- Breathe out  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> दण्डासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
- Breathe out  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> दण्डासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
+ Exhale  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
 Starting round 3 of सूर्यनमस्कार <break time='2s' />
- Breathe out  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> दण्डासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
- Breathe out  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> दण्डासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
+ Exhale  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
 Starting round 4 of सूर्यनमस्कार <break time='2s' />
- Breathe out  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> दण्डासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
- Breathe out  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> दण्डासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
+ Exhale  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
 Starting round 5 of सूर्यनमस्कार <break time='2s' />
- Breathe out  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> दण्डासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
- Breathe out  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> दण्डासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
+ Exhale  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
 Starting round 6 of सूर्यनमस्कार <break time='2s' />
- Breathe out  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> दण्डासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
- Breathe out  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> पादासना<break time='3000ms'/>
- Breathe out  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
- Breathe in  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
-Take a short break <break time='5s' />Starting वीरभद्रासना 1 in 5 <break time='5s' />Starting वीरभद्रासना 1 <break time='500ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
-Starting round 2 of वीरभद्रासना 1 <break time='2s' />
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
-Take a short break <break time='5s' />Starting वीरभद्रासना 2 in 5 <break time='5s' />Starting वीरभद्रासना 2 <break time='500ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
-Starting round 2 of वीरभद्रासना 2 <break time='2s' />
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
-Take a short break <break time='5s' />Starting वीरभद्रासना 3 in 5 <break time='5s' />Starting वीरभद्रासना 3 <break time='500ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
-Starting round 2 of वीरभद्रासना 3 <break time='2s' />
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
-Take a short break <break time='5s' />Starting नटराजसना in 5 <break time='5s' />Starting नटराजसना <break time='500ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
-Starting round 2 of नटराजसना <break time='2s' />
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
- Breathe in  <break time='3000ms'/>
- Breathe out  <break time='3000ms'/>
+ Exhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> दण्डासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अष्टांग नमस्कारा<break time='3000ms'/>
+ Exhale  <break time='100ms' /> भुजंगासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> अधो मुखा  स्वनासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> अश्व संचालासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> पादासना<break time='3000ms'/>
+ Exhale  <break time='100ms' /> हस्त उत्तनासना<break time='3000ms'/>
+ Inhale  <break time='100ms' /> ताड़ासना<break time='3000ms'/>
+Take a short break <break time='5s' />Starting वीरभद्रासना on right leg in 5 <break time='5s' />Starting वीरभद्रासना on right leg <break time='500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+Starting round 2 of वीरभद्रासना on right leg <break time='2s' />
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+Starting round 3 of वीरभद्रासना on right leg <break time='2s' />
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+Take a short break <break time='5s' />Starting वीरभद्रासना on left leg in 5 <break time='5s' />Starting वीरभद्रासना on left leg <break time='500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+Starting round 2 of वीरभद्रासना on left leg <break time='2s' />
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+Starting round 3 of वीरभद्रासना on left leg <break time='2s' />
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
+ Inhale  <break time='2500ms'/>
+ Exhale  <break time='2500ms'/>
 Take a short break <break time='5s' />Starting उत्कटासना in 20 <break time='20s' />Starting उत्कटासना <break time='500ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
-Take a short break <break time='5s' />Starting कालिआसना in 5 <break time='5s' />Starting कालिआसना <break time='500ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
 Take a short break <break time='5s' />Starting दंडासना in 20 <break time='20s' />Starting दंडासना <break time='500ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
 Take a short break <break time='5s' />Starting पश्चिमोत्तासना in 5 <break time='5s' />Starting पश्चिमोत्तासना <break time='500ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
 Take a short break <break time='5s' />Starting धनुरासना in 5 <break time='5s' />Starting धनुरासना <break time='500ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
- Breathe out  <break time='1000ms'/>
- Breathe in  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
 Take a short break <break time='5s' />Starting सर्वांगसना in 10 <break time='10s' />Starting सर्वांगसना <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+Take a short break <break time='5s' />Starting मत्स्येन्द्रासना in 10 <break time='10s' />Starting मत्स्येन्द्रासना <break time='500ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
 Take a short break <break time='5s' />Starting सीरसासना in 10 <break time='10s' />Starting सीरसासना <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
- Breathe out  <break time='500ms'/>
- Breathe in  <break time='500ms'/>
-<break time='500ms'/>Your Yoga Session is Complete.</speak>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+ Exhale  <break time='1000ms'/>
+ Inhale  <break time='1000ms'/>
+<break time='500ms'/>Take a short break for pranayama</speak>

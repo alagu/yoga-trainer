@@ -1,17 +1,15 @@
 require 'pp'
 poses = [
   { name: "सूर्यनमस्कार", steps: 12, reps: 6, interval: '3000', sub_poses: ['ताड़ासना','हस्त उत्तनासना','पादासना','अश्व संचालासना','दण्डासना','अष्टांग नमस्कारा','भुजंगासना','अधो मुखा  स्वनासना','अश्व संचालासना','पादासना','हस्त उत्तनासना','ताड़ासना'] },
-  { name: "वीरभद्रासना 1", steps: 15, reps: 2, interval: '3000'},
-  { name: "वीरभद्रासना 2", steps: 15, reps: 2, interval: '3000'},
-  { name: "वीरभद्रासना 3", steps: 15, reps: 2, interval: '3000'},
-  { name: "नटराजसना", steps: 15, reps: 2 , interval: '3000'},
+  { name: "वीरभद्रासना on right leg", steps: 15, reps: 3, interval: '2500'},
+  { name: "वीरभद्रासना on left leg", steps: 15, reps: 3, interval: '2500'},
   { name: "उत्कटासना", steps: 15, reps: 1, wait: 20, interval: '1000'},
-  { name: "कालिआसना", steps: 15, reps: 1, interval: '1000'},
   { name: "दंडासना", steps: 15, reps: 1, wait: 20, interval: '1000',},
-  { name: "पश्चिमोत्तासना", steps: 15, reps: 1 , interval: '1000'},
+  { name: "पश्चिमोत्तासना", steps: 30, reps: 1 , interval: '1000'},
   { name: "धनुरासना", steps: 10, reps: 1, interval: '1000'},
-  { name: "सर्वांगसना", steps: 60,reps: 1, wait: 10, interval: '500'},
-  { name: "सीरसासना", steps: 60,reps: 1, wait: 10, interval: '500'}
+  { name: "सर्वांगसना", steps: 60,reps: 1, wait: 10, interval: '1000'},
+  { name: "मत्स्येन्द्रासना", steps: 30,reps: 1, wait: 10, interval: '1000'},
+  { name: "सीरसासना", steps: 60,reps: 1, wait: 10, interval: '1000'}
 ]
 
 # poses = [
@@ -61,7 +59,7 @@ poses.each_with_index do |pose,index|
     (1..pose[:steps]).each do |counter|
       break_time = pose[:interval]
       say_time = pose[:steps] - counter + 1
-      breath = (counter % 2 == 1 ) ? " Breathe out " : " Breathe in "
+      breath = (counter % 2 == 1 ) ? " Exhale " : " Inhale "
       sub_pose = ""
       
       if pose.has_key?(:sub_poses) && (!pose[:sub_poses][counter - 1].nil?)
