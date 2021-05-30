@@ -1,18 +1,20 @@
 require 'pp'
+# This is messy code, but works
 poses = [
-  { name: "सूर्यनमस्कार", steps: 12, reps: 6, interval: '3000', sub_poses: ['ताड़ासना','हस्त उत्तनासना','पादासना','अश्व संचालासना','दण्डासना','अष्टांग नमस्कारा','भुजंगासना','अधो मुखा  स्वनासना','अश्व संचालासना','पादासना','हस्त उत्तनासना','ताड़ासना'] },
   { name: "वीरभद्रासना on right leg", steps: 15, reps: 3, interval: '2500'},
   { name: "वीरभद्रासना on left leg", steps: 15, reps: 3, interval: '2500'},
-  { name: "उत्कटासना", steps: 15, reps: 1, wait: 20, interval: '1000'},
-  { name: "दंडासना", steps: 15, reps: 1, wait: 20, interval: '1000',},
-  { name: "पश्चिमोत्तासना", steps: 30, reps: 1 , interval: '1000'},
-  { name: "धनुरासना", steps: 10, reps: 1, interval: '1000'},
+  { name: "उत्कटासना", steps: 40, reps: 1, wait: 20, interval: '1000'},
+  { name: "पश्चिमोत्तासना", steps: 40, reps: 1, interval: '1000'},
+  { name: "दंडासना", steps: 30, reps: 1, wait: 20, interval: '1000',},
+  { name: "धनुरासना", steps: 30, reps: 1, wait: 15, interval: '1000'},
   { name: "सर्वांगसना", steps: 60,reps: 1, wait: 10, interval: '1000'},
   { name: "मत्स्येन्द्रासना", steps: 30,reps: 1, wait: 10, interval: '1000'},
-  { name: "सीरसासना", steps: 60,reps: 1, wait: 10, interval: '1000'}
+  { name: "सीरसासना", steps: 60,reps: 1, wait: 10, interval: '1000'},
+  { name: "बालासना Child Pose", steps: 30,reps: 1, wait: 10, interval: '1000'}
 ]
 
 # poses = [
+# { name: "सूर्यनमस्कार", steps: 12, reps: 6, interval: '3000', sub_poses: ['ताड़ासना','हस्त उत्तनासना','पादासना','अश्व संचालासना','दण्डासना','अष्टांग नमस्कारा','भुजंगासना','अधो मुखा  स्वनासना','अश्व संचालासना','पादासना','हस्त उत्तनासना','ताड़ासना'] },
 #   { name: "सूर्यनमस्कार", steps: 12, reps: 1, interval: '1500' },
 #   { name: "त्रिकोणासन", steps: 30, reps: 2, interval: '500'},
 #   { name: "अर्ध मत्स्येन्द्रासन", steps: 30, reps: 2 , interval: '500'}
@@ -44,12 +46,7 @@ poses.each_with_index do |pose,index|
   if index == 0
     puts "<break time='1s' />Get ready for #{pose[:name]} <break time='5s' />"
   else
-    if pose.has_key? :wait
-      wait = pose[:wait]
-    else
-      wait = 5
-    end
-    
+    wait = (pose.has_key? :wait) ?  pose[:wait] : 5
     puts "Take a short break <break time='5s' />Starting #{pose[:name]} in #{wait} <break time='#{wait}s' />Starting #{pose[:name]} <break time='500ms'/>"
   end 
 
@@ -59,7 +56,11 @@ poses.each_with_index do |pose,index|
     (1..pose[:steps]).each do |counter|
       break_time = pose[:interval]
       say_time = pose[:steps] - counter + 1
-      breath = (counter % 2 == 1 ) ? " Exhale " : " Inhale "
+      if (pose[:steps]-counter) < 5 
+        breath = say_time
+      else 
+        breath = (counter % 2 == 1 ) ? " Exhale " : " Inhale "
+      end
       sub_pose = ""
       
       if pose.has_key?(:sub_poses) && (!pose[:sub_poses][counter - 1].nil?)
@@ -71,5 +72,3 @@ poses.each_with_index do |pose,index|
   end
   # break
 end
-
-puts "<break time='500ms'/>Take a short break for pranayama</speak>"
